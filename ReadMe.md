@@ -36,4 +36,3 @@ username workwithraymond01
 Password oPDgN9mR2NxJoY7m
 rTCvz1gwSwsvz9VE
 
-mongodb+srv://workwithraymond01:<password>@cluster0.bm6il9a.mongodb.net/?retryWrites=true&w=majority
