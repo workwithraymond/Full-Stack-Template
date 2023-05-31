@@ -32,7 +32,5 @@
 
 //----Test Heroku Link
 
-username workwithraymond01
-Password oPDgN9mR2NxJoY7m
-rTCvz1gwSwsvz9VE
+
 
